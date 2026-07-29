@@ -105,6 +105,7 @@ ul li a {
 
 /* section about me  */
 
+
 .gap-2 {
   display: flex;
   flex-direction: column;
@@ -114,8 +115,8 @@ ul li a {
   background-color: #fff8f3;
   border-radius: 10px;
   text-align: center;
-  padding: 100px 150px;
-  margin: 90px auto;
+  padding: 100px 150px !important;
+  margin: 90px auto !important; 
 }
 
 .about-p-3 {
